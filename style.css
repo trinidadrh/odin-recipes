@@ -1,0 +1,27 @@
+* {
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(31, 117, 205);
+}
+
+img {
+    height: auto;
+    width: 900px;
+}
+
+h1 {
+    color:whitesmoke;
+    font-family: Garamond;
+    font-size: 75px;
+}
+
+h2 {
+    color:whitesmoke;
+    font-family: Garamond;
+    font-size: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
